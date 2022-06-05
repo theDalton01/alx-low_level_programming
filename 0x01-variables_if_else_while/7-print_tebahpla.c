@@ -9,7 +9,7 @@ int main(void)
 {
 	char letter;
 
-	if (letter = 'z'; letter >= 'a';)
+	if (letter = 'z'; letter >= 'a'; c--)
 		putchar(letter);
 
 	puchar('\n');
