@@ -9,10 +9,10 @@ int main(void)
 {
 	char letter;
 
-	if (letter = 'z'; letter >= 'a'; c--)
+	if (letter = 'z'; letter >= 'a'; insert--)
 		putchar(letter);
 
-	puchar('\n');
+	putchar('\n');
 	return (0);
 }
 
