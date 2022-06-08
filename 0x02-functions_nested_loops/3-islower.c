@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * _islower - Shows 1 if the input is a
- * lowercase character. Another cases, shows 0
+ * _islower - checks for lowercase character
  *
- * @c: The character in ASCII code
- * Return: 1 for lowercase. 0 for the rest.
+ * @c: The character to check
+ * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c)
 {
