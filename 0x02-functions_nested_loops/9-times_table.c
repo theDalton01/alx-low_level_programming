@@ -33,7 +33,7 @@ void times_table(void)
 				_putchar(' ');
 			}
 		}
-		_Putchar('\n');
+		_putchar('\n');
 	}
 }
 
